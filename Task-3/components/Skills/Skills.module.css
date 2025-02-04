@@ -1,0 +1,16 @@
+.skills {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 3rem 5%;
+    background: #222;
+    color: white;
+  }
+  
+  .skillCard {
+    background: #ff6347;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    font-size: 1.5rem;
+  }
+  
